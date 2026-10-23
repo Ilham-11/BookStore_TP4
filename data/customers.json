@@ -1,0 +1,45 @@
+
+[
+    {
+        "id": 1,
+        "name": "Sara Amrani",
+        "city": "Marrakech",
+        "email": "sara.amrani@example.com",
+        "active": true
+    },
+    {
+        "id": 2,
+        "name": "Youssef Alaoui",
+        "city": "Casablanca",
+        "email": "youssef.alaoui@example.com",
+        "active": true
+    },
+    {
+        "id": 3,
+        "name": "Nadia Rahmani",
+        "city": "Rabat",
+        "email": "nadia.rahmani@example.com",
+        "active": true
+    },
+    {
+        "id": 4,
+        "name": "Omar Bennani",
+        "city": "Fès",
+        "email": "omar.bennani@example.com",
+        "active": false
+    },
+    {
+        "id": 5,
+        "name": "Salma Idrissi",
+        "city": "Agadir",
+        "email": "salma.idrissi@example.com",
+        "active": true
+    },
+    {
+        "id": 6,
+        "name": "Adam Tazi",
+        "city": "Tanger",
+        "email": "adam.tazi@example.com",
+        "active": true
+    }
+]

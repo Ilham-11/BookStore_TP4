@@ -1,0 +1,100 @@
+
+[
+    {
+        "id": 101,
+        "customerId": 1,
+        "date": "2026-10-10",
+        "status": "Livree",
+        "items": [
+            {"productId": 10, "quantity": 2},
+            {"productId": 12, "quantity": 1}
+        ]
+    },
+    {
+        "id": 102,
+        "customerId": 2,
+        "date": "2026-10-11",
+        "status": "En attente",
+        "items": [
+            {"productId": 13, "quantity": 1},
+            {"productId": 17, "quantity": 1}
+        ]
+    },
+    {
+        "id": 103,
+        "customerId": 3,
+        "date": "2026-10-12",
+        "status": "Livree",
+        "items": [
+            {"productId": 14, "quantity": 1},
+            {"productId": 11, "quantity": 2}
+        ]
+    },
+    {
+        "id": 104,
+        "customerId": 4,
+        "date": "2026-10-12",
+        "status": "Annulee",
+        "items": [
+            {"productId": 15, "quantity": 1}
+        ]
+    },
+    {
+        "id": 105,
+        "customerId": 5,
+        "date": "2026-10-13",
+        "status": "En attente",
+        "items": [
+            {"productId": 16, "quantity": 3}
+        ]
+    },
+    {
+        "id": 106,
+        "customerId": 6,
+        "date": "2026-10-14",
+        "status": "Livree",
+        "items": [
+            {"productId": 17, "quantity": 1},
+            {"productId": 10, "quantity": 1}
+        ]
+    },
+    {
+        "id": 107,
+        "customerId": 1,
+        "date": "2026-10-15",
+        "status": "Annulee",
+        "items": [
+            {"productId": 11, "quantity": 1},
+            {"productId": 14, "quantity": 1}
+        ]
+    },
+    {
+        "id": 108,
+        "customerId": 2,
+        "date": "2026-10-16",
+        "status": "Livree",
+        "items": [
+            {"productId": 12, "quantity": 1},
+            {"productId": 13, "quantity": 1}
+        ]
+    },
+    {
+        "id": 109,
+        "customerId": 3,
+        "date": "2026-10-17",
+        "status": "En attente",
+        "items": [
+            {"productId": 15, "quantity": 2}
+        ]
+    },
+    {
+        "id": 110,
+        "customerId": 5,
+        "date": "2026-10-18",
+        "status": "Livree",
+        "items": [
+            {"productId": 16, "quantity": 1},
+            {"productId": 10, "quantity": 1}
+        ]
+    }
+]

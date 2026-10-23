@@ -1,0 +1,83 @@
+
+[
+    {
+        "id": 10,
+        "name": "Le Petit Prince",
+        "author": "Antoine de Saint-Exupéry",
+        "category": "Roman",
+        "price": 85,
+        "stock": 12,
+        "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&w=600&q=80",
+        "description": "Un conte poétique et philosophique intemporel."
+    },
+    {
+        "id": 11,
+        "name": "L'Étranger",
+        "author": "Albert Camus",
+        "category": "Roman",
+        "price": 75,
+        "stock": 8,
+        "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=600&q=80",
+        "description": "Un grand classique de la littérature française."
+    },
+    {
+        "id": 12,
+        "name": "Clean Code",
+        "author": "Robert C. Martin",
+        "category": "Informatique",
+        "price": 320,
+        "stock": 5,
+        "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=600&q=80",
+        "description": "Les bonnes pratiques pour écrire du code lisible."
+    },
+    {
+        "id": 13,
+        "name": "JavaScript: The Good Parts",
+        "author": "Douglas Crockford",
+        "category": "Informatique",
+        "price": 220,
+        "stock": 7,
+        "image": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?auto=format&fit=crop&w=600&q=80",
+        "description": "Un guide des éléments essentiels de JavaScript."
+    },
+    {
+        "id": 14,
+        "name": "Sapiens",
+        "author": "Yuval Noah Harari",
+        "category": "Histoire",
+        "price": 180,
+        "stock": 9,
+        "image": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?auto=format&fit=crop&w=600&q=80",
+        "description": "Une exploration de l'histoire de l'humanité."
+    },
+    {
+        "id": 15,
+        "name": "Une brève histoire du temps",
+        "author": "Stephen Hawking",
+        "category": "Sciences",
+        "price": 160,
+        "stock": 6,
+        "image": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?auto=format&fit=crop&w=600&q=80",
+        "description": "Les grandes questions sur l'univers et le temps."
+    },
+    {
+        "id": 16,
+        "name": "L'Alchimiste",
+        "author": "Paulo Coelho",
+        "category": "Roman",
+        "price": 90,
+        "stock": 10,
+        "image": "https://images.unsplash.com/photo-1513001900722-370f803f498d?auto=format&fit=crop&w=600&q=80",
+        "description": "Un voyage initiatique à la recherche de ses rêves."
+    },
+    {
+        "id": 17,
+        "name": "Python pour débutants",
+        "author": "Équipe BookStore",
+        "category": "Informatique",
+        "price": 250,
+        "stock": 4,
+        "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=600&q=80",
+        "description": "Une introduction progressive à la programmation Python."
+    }
+]
